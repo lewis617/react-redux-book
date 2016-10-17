@@ -1,0 +1,6 @@
+**/dist/**
+**/static/**
+**/build/**
+**/node_modules/**
+**/webpack*.js
+**/webpack/**

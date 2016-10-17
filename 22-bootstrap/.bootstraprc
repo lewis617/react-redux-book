@@ -1,0 +1,88 @@
+---
+# Bootstrap版本
+bootstrapVersion: 3
+
+# Bootstrap3 中 自定义图标字体路径的开关
+useCustomIconFontPath: false
+
+# Webpack 加载器列表，注意顺序
+styleLoaders:
+  - style
+  - css
+  - sass
+
+# 导出样式到单独的css文件
+# 可以根据 NODE_ENV 这个环境变量设置此项
+# 也可以在webpack中配置
+#   entry: 'bootstrap-loader/extractStyles'
+extractStyles: false
+# env:
+#   development:
+#     extractStyles: false
+#   production:
+#     extractStyles: true
+
+# 自定义Bootstrap 变量，在Bootstrap加载前加载，用于重写默认变量，相当于自定义Bootstrap
+preBootstrapCustomizations: ./src/theme/bootstrap/pre-customizations.scss
+
+# 自定义Bootstrap 变量，在Bootstrap加载后加载，用于重写Bootstrap变量，相当于重写Bootstrap
+bootstrapCustomizations: ./src/theme/bootstrap/customizations.scss
+
+# 在此处导入自定义样式
+# appStyles: ./app/styles/app.scss
+
+### Bootstrap 样式
+styles:
+
+  # Mixins
+  mixins: true
+
+  # Reset and dependencies
+  normalize: true
+  print: true
+  glyphicons: true
+
+  # Core CSS
+  scaffolding: true
+  type: true
+  code: true
+  grid: true
+  tables: true
+  forms: true
+  buttons: true
+
+  # Components
+  component-animations: true
+  dropdowns: true
+  button-groups: true
+  input-groups: true
+  navs: true
+  navbar: true
+  breadcrumbs: true
+  pagination: true
+  pager: true
+  labels: true
+  badges: true
+  jumbotron: true
+  thumbnails: true
+  alerts: true
+  progress-bars: true
+  media: true
+  list-group: true
+  panels: true
+  wells: true
+  responsive-embed: true
+  close: true
+
+  # Components w/ JavaScript
+  modals: true
+  tooltip: true
+  popovers: true
+  carousel: true
+
+  # Utility classes
+  utilities: true
+  responsive-utilities: true
+
+### Bootstrap scripts
+scripts: false

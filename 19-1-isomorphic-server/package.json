@@ -1,0 +1,20 @@
+{
+  "name": "19-1-isomorphic-server",
+  "version": "1.0.0",
+  "description": "React Redux example",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "webpack-isomorphic-tools": "2.5.8"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewis617/react-redux-book.git"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lewis617/react-redux-book/issues"
+  },
+  "homepage": "https://github.com/lewis617/react-redux-book#readme"
+}

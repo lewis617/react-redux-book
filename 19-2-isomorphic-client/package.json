@@ -1,0 +1,27 @@
+{
+  "name": "19-2-isomorphic-client",
+  "version": "1.0.0",
+  "description": "React Redux example",
+  "scripts": {
+    "start": "http-server -p 3000",
+    "build": "webpack"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "file-loader": "^0.9.0",
+    "http-server": "^0.9.0",
+    "url-loader": "^0.5.7",
+    "webpack-isomorphic-tools": "^2.2.48"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewis617/react-redux-book.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lewis617/react-redux-book/issues"
+  },
+  "homepage": "https://github.com/lewis617/react-redux-book#readme",
+  "devDependencies": {
+    "webpack": "^1.13.2"
+  }
+}

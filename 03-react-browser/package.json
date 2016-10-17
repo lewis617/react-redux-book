@@ -1,0 +1,30 @@
+{
+  "name": "03-react-browser",
+  "version": "1.0.0",
+  "description": "React Redux example",
+  "scripts": {
+    "build": "webpack",
+    "start": "webpack && http-server -p 3000"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel-core": "^6.8.0",
+    "babel-loader": "^6.2.4",
+    "babel-preset-es2015": "^6.6.0",
+    "babel-preset-react": "^6.5.0",
+    "webpack": "^1.13.0"
+  },
+  "dependencies": {
+    "http-server": "^0.9.0",
+    "react": "^15.3.1",
+    "react-dom": "^15.3.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lewis617/react-redux-book.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lewis617/react-redux-book/issues"
+  },
+  "homepage": "https://github.com/lewis617/react-redux-book#readme"
+}

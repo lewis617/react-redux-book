@@ -1,0 +1,15 @@
+*.log
+
+node_modules
+
+.idea
+
+webpack-assets.json
+
+dist
+
+.vscode
+
+jsconfig.json
+
+build

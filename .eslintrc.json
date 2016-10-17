@@ -1,0 +1,23 @@
+{
+  "extends": "airbnb",
+  "env": {
+    "browser": true,
+    "node": true,
+    "mocha": true
+  },
+  "rules": {
+    "import/no-unresolved": 0,
+    "comma-dangle": 0,
+    "no-console": 0,
+    "no-alert": 0,
+    "prefer-template": 0,
+    "global-require": 0,
+    "no-underscore-dangle": 0,
+    "no-undef": 0,
+    "react/jsx-space-before-closing": 0
+  },
+  "parser": "babel-eslint",
+  "plugins": [
+    "react"
+  ]
+}
