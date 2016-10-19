@@ -13,3 +13,5 @@ dist
 jsconfig.json
 
 build
+
+yarn.lock
