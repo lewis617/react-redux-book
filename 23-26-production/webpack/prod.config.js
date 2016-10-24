@@ -12,7 +12,7 @@ module.exports = {
   context: projectRootPath,
   entry: [
     'bootstrap-loader/extractStyles',
-    'font-awesome-loader!./static/theme/font-awesome/font-awesome.config.prod.js',
+    'font-awesome-loader!./src/theme/font-awesome/font-awesome.config.prod.js',
     './build/client'
   ],
   output: {

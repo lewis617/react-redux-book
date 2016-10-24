@@ -23,10 +23,10 @@ extractStyles: false
 #     extractStyles: true
 
 # 自定义Bootstrap 变量，在Bootstrap加载前加载，用于重写默认变量，相当于自定义Bootstrap
-preBootstrapCustomizations: ./static/theme/bootstrap/pre-customizations.scss
+preBootstrapCustomizations: ./src/theme/bootstrap/pre-customizations.scss
 
 # 自定义Bootstrap 变量，在Bootstrap加载后加载，用于重写Bootstrap变量，相当于重写Bootstrap
-bootstrapCustomizations: ./static/theme/bootstrap/customizations.scss
+bootstrapCustomizations: ./src/theme/bootstrap/customizations.scss
 
 # 在此处导入自定义样式
 # appStyles: ./app/styles/app.scss
