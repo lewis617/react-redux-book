@@ -2,6 +2,9 @@
 
 [![Build Status](https://travis-ci.org/lewis617/react-redux-book.svg?branch=master)](https://travis-ci.org/lewis617/react-redux-book) 
 
+
+![](https://raw.githubusercontent.com/lewis617/react-redux-book/master/front-cover.jpg)
+
 ## 关于 React 与 Redux
 
 React 与 Redux， 一个快如鬼魅，一个清晰明了，各个巨头在生产环境对其进行了无数次的测试，强大的社区又为其提供了无数个场景的解决方案，是目前国际上最主流，最先进的前端技术选型。
