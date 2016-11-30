@@ -17,6 +17,10 @@ React 与 Redux， 一个快如鬼魅，一个清晰明了，各个巨头在生�
 
 [京东](https://item.jd.com/12010463.html)
 
+[当当](http://product.dangdang.com/24145390.html)
+
+[亚马逊](https://www.amazon.cn/React%E4%B8%8ERedux%E5%BC%80%E5%8F%91%E5%AE%9E%E4%BE%8B%E7%B2%BE%E8%A7%A3-%E5%88%98%E4%B8%80%E5%A5%87/dp/B01N0EJCZR/ref=sr_1_1?s=books&ie=UTF8&qid=1480424464&sr=1-1&keywords=React%E4%B8%8ERedux)
+
 ## License
 
 MIT
