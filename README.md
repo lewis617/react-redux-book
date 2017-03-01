@@ -29,6 +29,10 @@ React 与 Redux， 一个快如鬼魅，一个清晰明了，各个巨头在生�
 
 [当当](http://product.dangdang.com/24145390.html)
 
+## 常见问题及解决办法
+
+[23章例子跑不起来](https://github.com/lewis617/react-redux-book/issues/2)
+
 ## License
 
 MIT
