@@ -22,13 +22,6 @@ React 与 Redux， 一个快如鬼魅，一个清晰明了，各个巨头在生�
 - **跑例子：**本书名为《React 与 Redux 开发实例精解》，因此请务必将[示例代码](https://github.com/lewis617/react-redux-book)克隆到本地，一边运行例子，一边阅读本书。
 - **看文档：**本书因篇幅有限等原因，无法对每一项技术的讲解都做到完整而详尽。因此，你还需要根据书中的提示和推荐，去阅读参考相应技术的官方文档。
 - **提问题：**如果在阅读过程中遇到解决不了的问题，可以到 [GitHub](https://github.com/lewis617/react-redux-book) 提交 Issue，或给我发邮件（lewis617@163.com），我会第一时间解答你的问题。
-
-## 本书的目录结构
-
-温馨提示：鼠标滚轮可以缩放，鼠标拖拽可移动，点击节点可以使其居中。
-
-<iframe src="https://lewis617.github.io/books-tree/?hideMenu=true&lazy=200#react-redux-book" 
-	width="850" height="850"></iframe>
   
 ## 售书链接
 
